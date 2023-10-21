@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-icon1 {
+    border-style: solid;
+    border-color: #4b6cc1;
+    width: 40px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bg1 {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/bd/LakshmiVilas_Palace.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-color: #191a1d; */
+    width: 100%;
+    height: 110vh;
+}
+.intro-class{
+    margin-bottom: 150px;
+    margin-right: 150px;
+}
+
+.home-image1 {
+    width: 100%;
+
+}
+
+.image-class1 {
+    text-align: center;
+}
+
+.spl-name1 {
+    color: #d50606;
+}
+
+.name1 {
+    color: white;
+    font-size: 60px;
+}
+
+.about1 {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contact-button1 {
+    border-width: 0px;
+    color: white;
+    background-color: #4b6cc1;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+}
+
+.skill-sec-heading-2 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.skill-sec-sub-heading-2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.skill-sec-bg-2 {
+    background-color: #323f4b;
+    text-align: center;
+}
+
+.skill-sec-profileimg-2 {
+    height: 300px;
+    width: 500px;
+    margin-right: 50px;
+    margin-top: 220px;
+}
+
+.skill-sec-intro-2 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.skill-sec-bg2-2 {
+    background-color: #1f2933;
+
+}
+
+.icon-bg-2 {
+    background-color: #323f4b;
+    width: 1500px;
+    height: auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.icon-img-2 {
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+.icon-name-2 {
+    color: rgba(204, 188, 6, 0.895);
+    font-size: 28px;
+}
+
+.portfolio-3 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.portfolio-bg-3 {
+    background-color: #3e4c59;
+
+}
+
+.portfolio-projects-3 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.project-image-3 {
+    width: 100%;
+}
+
+.project-img-bg-3 {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.project-design-3 {
+    color: #9aa5b1;
+    margin: 10px;
+    font-family: "Roboto";
+}
+
+.project-title-3 {
+    color: white;
+    font-family: "Roboto";
+    margin: 10px;
+    font-size: 30px;
+}
+
+.project-des-3 {
+    color: #9aa5b1;
+    margin: 10px;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.project-anchor-3 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin: 10px;
+}
+
+.bg-4 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+}
+
+.icon-4 {
+    color: white;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.hr-line-4 {
+    background-color: white;
+    width: 60px;
+}
+
+.portfolio {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.portfolio-bg {
+    background-color: #52606d;
+
+}
+
+.portfolio-projects {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.project-image {
+    width: 70px;
+    height: 70px;
+    margin: 20px;
+}
+
+.project-img-bg {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.project-title {
+    color: white;
+    font-family: "Roboto";
+    margin: 10px;
+    font-size: 30px;
+}
+
+.project-des {
+    color: #9aa5b1;
+    margin: 10px;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.dp {
+    height: 80px;
+    border-radius: 30%;
+}
+
+.footer-bg {
+    background-color: #0d2436;
+}
+
+.title {
+    color: #cced00;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.des {
+    color: #9aa5b1;
+    font-size: 19px;
+    font-family: "Roboto";
+}
+
+.icon-des {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.cr-bg {
+    background-color: #001c32;
+}
+
+.text {
+    color:white;
+    width: 1200px;
+}
+
+.heading {
+    font-size: 50px;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.koushik {
+    height: 100px;
+    width : 100px;
+    border-radius : 50%
+}
